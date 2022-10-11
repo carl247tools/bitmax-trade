@@ -1,0 +1,1 @@
+20000 || This version of app is outdated. Kindly Update to V2.6.0 || https://play.google.com/store/apps/details?id=com.bitmax-trade.app
